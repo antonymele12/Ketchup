@@ -1,4 +1,4 @@
-#> Captain
-#*Flies*
-#**Away**
-#:rocket:
+>Captain
+*Flies*
+**Away**
+:rocket:
